@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1383233972 source:c:\users\alejandro  reyes\desktop\simulacro\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
